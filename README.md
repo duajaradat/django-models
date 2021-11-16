@@ -8,7 +8,7 @@ Du'a Jaradat
 
 ## Links and Resources
 
-- [Pull Request]()
+- [Pull Request](https://github.com/duajaradat/django-models/pull/1)
 
 ---
 
